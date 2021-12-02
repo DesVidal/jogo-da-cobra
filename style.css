@@ -1,0 +1,13 @@
+body {
+  height: 95vh; /* vh= viewport height */
+  width: 95vh;
+  display: flex;
+  justify-content: center; /*alinha horizontal */
+  align-items: center; /*alinha vertical */
+  flex-direction: column; /*alinha título e tela do jogo um abaixo do outro. sem isso ficariam em linha, um ao lado do outro */
+  font: 100;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande',
+    'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  font-size: larger;
+  color: rgb(19, 25, 106);
+}
